@@ -1,0 +1,12 @@
+D:\WindowsApplication\ProductCURD\ProductCURD\bin\Debug\ProductCURD.exe.config
+D:\WindowsApplication\ProductCURD\ProductCURD\bin\Debug\ProductCURD.exe
+D:\WindowsApplication\ProductCURD\ProductCURD\bin\Debug\ProductCURD.pdb
+D:\WindowsApplication\ProductCURD\ProductCURD\obj\Debug\ProductCURD.csproj.AssemblyReference.cache
+D:\WindowsApplication\ProductCURD\ProductCURD\obj\Debug\ProductCURD.csproj.SuggestedBindingRedirects.cache
+D:\WindowsApplication\ProductCURD\ProductCURD\obj\Debug\ProductCURD.Form1.resources
+D:\WindowsApplication\ProductCURD\ProductCURD\obj\Debug\ProductCURD.Properties.Resources.resources
+D:\WindowsApplication\ProductCURD\ProductCURD\obj\Debug\ProductCURD.csproj.GenerateResource.cache
+D:\WindowsApplication\ProductCURD\ProductCURD\obj\Debug\ProductCURD.csproj.CoreCompileInputs.cache
+D:\WindowsApplication\ProductCURD\ProductCURD\obj\Debug\ProductCURD.exe
+D:\WindowsApplication\ProductCURD\ProductCURD\obj\Debug\ProductCURD.pdb
+D:\WindowsApplication\ProductCURD\ProductCURD\obj\Debug\ProductCURD.Form2.resources
