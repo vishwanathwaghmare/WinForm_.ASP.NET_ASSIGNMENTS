@@ -1,0 +1,12 @@
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\bin\Debug\ConnectedDemo.exe.config
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\bin\Debug\ConnectedDemo.exe
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\bin\Debug\ConnectedDemo.pdb
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.csproj.AssemblyReference.cache
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.csproj.SuggestedBindingRedirects.cache
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.Form1.resources
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.Properties.Resources.resources
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.csproj.GenerateResource.cache
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.csproj.CoreCompileInputs.cache
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.exe
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.pdb
+D:\WindowsApplication\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.Form2.resources
