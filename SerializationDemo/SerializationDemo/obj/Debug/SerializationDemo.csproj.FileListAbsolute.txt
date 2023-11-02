@@ -1,0 +1,14 @@
+D:\WindowsApplication\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.exe.config
+D:\WindowsApplication\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.exe
+D:\WindowsApplication\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.pdb
+D:\WindowsApplication\SerializationDemo\SerializationDemo\bin\Debug\Newtonsoft.Json.dll
+D:\WindowsApplication\SerializationDemo\SerializationDemo\bin\Debug\Newtonsoft.Json.xml
+D:\WindowsApplication\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csproj.AssemblyReference.cache
+D:\WindowsApplication\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csproj.SuggestedBindingRedirects.cache
+D:\WindowsApplication\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.Serialization.resources
+D:\WindowsApplication\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.Properties.Resources.resources
+D:\WindowsApplication\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csproj.GenerateResource.cache
+D:\WindowsApplication\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csproj.CoreCompileInputs.cache
+D:\WindowsApplication\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csproj.CopyComplete
+D:\WindowsApplication\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.exe
+D:\WindowsApplication\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.pdb
