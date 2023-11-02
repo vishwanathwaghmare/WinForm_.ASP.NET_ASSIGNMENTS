@@ -1,0 +1,11 @@
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\obj\Debug\FileIoDemo1.csproj.AssemblyReference.cache
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\obj\Debug\FileIoDemo1.csproj.SuggestedBindingRedirects.cache
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\obj\Debug\FileIoDemo1.FileIoDemo.resources
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\obj\Debug\FileIoDemo1.Properties.Resources.resources
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\obj\Debug\FileIoDemo1.csproj.GenerateResource.cache
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\obj\Debug\FileIoDemo1.csproj.CoreCompileInputs.cache
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\bin\Debug\FileIoDemo1.exe.config
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\bin\Debug\FileIoDemo1.exe
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\bin\Debug\FileIoDemo1.pdb
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\obj\Debug\FileIoDemo1.exe
+D:\WindowsApplication\FileIoDemo1\FileIoDemo1\obj\Debug\FileIoDemo1.pdb
